@@ -26,11 +26,7 @@ const mainBody = {
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/poonam-patel-925ba186/",
-    },
-    // {
-    //   image: "fa-twitter",
-    //   url: "https://www.twitter.com/poonampatel/",
-    // },
+    }
   ],
 };
 
@@ -41,7 +37,7 @@ const about = {
   imageLink: require("../editable-stuff/Poonam_prof.jpeg"),
   imageSize: 375,
   message:
-    "My name is Poonamben Patel. I will be graduating of 2023 from seattle University of Sciences and Technology  with a degree in  Master of Computer Science. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time i would like to learn more about the new technology like AI and data.",
+    "My name is Poonamben Patel and I have more than six years of professional job expertise in web development platforms. I will receive my Master of Computer Science in June,2023 from Seattle University of Sciences and Technology. My goal is to follow my enthusiasm for giving back to the community within the field of software engineering. This is my greatest area of passion. I'd like to learn more about emerging technologies like data, cloud computing (AWS, Azure),and  AI in my spare time.",
   resume: "https://drive.google.com/file/d/1W9KLju4YIg2pYD2ywQ6AxanA9UVLGvRL/view?usp=sharing",
 };
 
@@ -106,7 +102,7 @@ const skills = {
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Creativity & Quick Learner", value: 90 },
   ],
 };
 
@@ -115,7 +111,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Software Engineering or data Science opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "poonampatel52@ymail.com",
 };
 
@@ -124,9 +120,15 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Web developer',// Here Add Company Name
-      companylogo: require('../assets/img/zofax.png'),
-      date: 'March 2018 – oct 2021',
+      role: 'Part time Tutor for undergrad student in data structure and c++ problem',// Here Add Company Name
+      companylogo: require('../assets/img/Seattle_University_seal.png'),
+      date: 'October 2021 – Present',
+    },
+   
+    {
+      role: 'Sr. Sofware engineer',
+      companylogo: require('../assets/img/nexuslink.png'),
+      date: 'March 2018 – Oct 2021',
     },
     {
       role: 'Web and mobile app Developer',
@@ -134,9 +136,9 @@ const experiences = {
       date: 'April 2016 – March 2018',
     },
     {
-      role: 'Sr. Sofware engineer',
-      companylogo: require('../assets/img/nexuslink.png'),
-      date: 'March 2018 – Oct 2021',
+      role: 'Web developer',// Here Add Company Name
+      companylogo: require('../assets/img/zofax.png'),
+      date: 'March 2014 – March 2016',
     }
   ]
 }

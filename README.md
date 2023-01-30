@@ -5,14 +5,12 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://Poonam52.github.io/Portfolio_React/">Poonam52.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://Poonam52.github.io/Portfolio_React/#aboutme">About Me</a>
   </p>
 </p>
-
-
 
 ## Table of Contents
 
@@ -24,8 +22,7 @@
 - [Contributing 🙌](#contributing-)
 - [Issues](#issues)
 - [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
-- [Showcase 🚀](#showcase-)
-- [Versão em Português :brazil:](#versao-em-portugues-)
+
 
 ## Technology Stack 🛠️
 
@@ -33,16 +30,14 @@ Dependencies defined in package.json:
 
 [Reactjs](https://reactjs.org/)
 | [Bootstrap](https://getbootstrap.com/)
-| [Typist](https://github.com/jstejada/react-typist)
 | [GitHub API](https://developer.github.com/v3/repos/)
-| [Instagram API](https://www.instagram.com/developer/embedding/)
 
 ## Structure ⚓
 
 - Navigation bar (optional)
 - Body
   - Name | Profession
-  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
+  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Email
   - Resume | About me
 - About Me
   - Display picture (optional)
@@ -122,5 +117,4 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
-
+Facing issues? Feel free to contact at poonampatel52@ymail.com.
