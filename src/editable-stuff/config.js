@@ -38,7 +38,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Poonamben Patel and I have more than 10 years of professional job expertise in web development platforms. I received my Master of Computer Science in June,2023 from Seattle University of Sciences and Technology. My goal is to follow my enthusiasm for giving back to the community within the field of software engineering. This is my greatest area of passion. I'd like to learn more about emerging technologies like data, cloud computing (AWS, Azure),and  AI in my spare time.",
-  resume: "https://drive.google.com/file/d/1tyFlQYVUO3xk2lP0tM-nzovvm8IP3tFa/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1DEpu84mMUb0_3Eu5cUXV0OwPucFD8FHf/view?usp=sharing",
 };
 
 // PROJECTS SECTION
