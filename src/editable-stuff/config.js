@@ -37,8 +37,8 @@ const about = {
   imageLink: require("../editable-stuff/Poonam_prof.jpeg"),
   imageSize: 375,
   message:
-    "My name is Poonamben Patel and I have more than six years of professional job expertise in web development platforms. I will receive my Master of Computer Science in June,2023 from Seattle University of Sciences and Technology. My goal is to follow my enthusiasm for giving back to the community within the field of software engineering. This is my greatest area of passion. I'd like to learn more about emerging technologies like data, cloud computing (AWS, Azure),and  AI in my spare time.",
-  resume: "https://drive.google.com/file/d/1E5zavkQQKJy-kVgtL9gNq7VNby0dn1du/view?usp=sharing",
+    "My name is Poonamben Patel and I have more than 10 years of professional job expertise in web development platforms. I received my Master of Computer Science in June,2023 from Seattle University of Sciences and Technology. My goal is to follow my enthusiasm for giving back to the community within the field of software engineering. This is my greatest area of passion. I'd like to learn more about emerging technologies like data, cloud computing (AWS, Azure),and  AI in my spare time.",
+  resume: "https://drive.google.com/file/d/1tyFlQYVUO3xk2lP0tM-nzovvm8IP3tFa/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -84,20 +84,21 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "C#", value: 90 },
-    { name: "API", value: 80 },
+    { name: "Rest API", value: 80 },
     { name: "Python", value: 70 },
     { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 70 },
-    { name: "C/C++", value: 40 },
-    { name: "Jquery", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 70 },
+    { name: "Docker container", value: 70 },
+    { name: "Microservice", value: 100 },
+    { name: "Kafka", value: 90 },
+    { name: "React", value: 70 },
+    { name: "java", value: 70 },
     
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 75 },
+    { name: "Mentoring", value: 90 }
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
@@ -111,7 +112,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or data Science opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently Working on UWM (United Wholesale Mortgage) for full-time Software Engineering II or looking to continues looking opportunities to grow my technical skill in differnt technology! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "poonampatel52@ymail.com",
 };
 
@@ -119,6 +120,11 @@ const experiences = {
   show: true,
   heading: "Experiences",
   data: [
+    {
+      role: 'Full time Software Developer',// Here Add Company Name
+      companylogo: require('../assets/img/UWM_logo.jfif'),
+      date: 'October 2021 – Present',
+    }
     {
       role: 'Part time Tutor for undergrad student in data structure and c++ problem',// Here Add Company Name
       companylogo: require('../assets/img/Seattle_University_seal.png'),
