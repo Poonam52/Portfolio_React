@@ -98,7 +98,7 @@ const skills = {
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 75 },
-    { name: "Mentoring", value: 90 }
+    { name: "Mentoring", value: 90 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
     { name: "Empathy", value: 90 },
@@ -124,7 +124,7 @@ const experiences = {
       role: 'Full time Software Developer',// Here Add Company Name
       companylogo: require('../assets/img/UWM_logo.jfif'),
       date: 'October 2021 – Present',
-    }
+    },
     {
       role: 'Part time Tutor for undergrad student in data structure and c++ problem',// Here Add Company Name
       companylogo: require('../assets/img/Seattle_University_seal.png'),
