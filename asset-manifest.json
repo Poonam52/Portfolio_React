@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio_React/static/css/main.778eeed7.css",
-    "main.js": "/Portfolio_React/static/js/main.eabd96fd.js",
+    "main.js": "/Portfolio_React/static/js/main.457dd4fd.js",
     "static/js/787.4b24f717.chunk.js": "/Portfolio_React/static/js/787.4b24f717.chunk.js",
-    "static/media/Poonam_prof.jpeg": "/Portfolio_React/static/media/Poonam_prof.2c6e544cec993e4f8475.jpeg",
+    "static/media/Poonam_prof.jpeg": "/Portfolio_React/static/media/Poonam_prof.ef3e5723cea7342e3c25.jpeg",
     "static/media/Seattle_University_seal.png": "/Portfolio_React/static/media/Seattle_University_seal.7e8fbd6540fb924f498b.png",
+    "static/media/nexuslink.png": "/Portfolio_React/static/media/nexuslink.dedb2e30b844a66b49f8.png",
     "static/media/UWM_logo.jfif": "/Portfolio_React/static/media/UWM_logo.0f6d420f1f222b4559cd.jfif",
     "index.html": "/Portfolio_React/index.html",
     "main.778eeed7.css.map": "/Portfolio_React/static/css/main.778eeed7.css.map",
-    "main.eabd96fd.js.map": "/Portfolio_React/static/js/main.eabd96fd.js.map",
+    "main.457dd4fd.js.map": "/Portfolio_React/static/js/main.457dd4fd.js.map",
     "787.4b24f717.chunk.js.map": "/Portfolio_React/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.eabd96fd.js"
+    "static/js/main.457dd4fd.js"
   ]
 }
