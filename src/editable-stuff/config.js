@@ -37,8 +37,8 @@ const about = {
   imageLink: require("../editable-stuff/Poonam_prof.jpeg"),
   imageSize: 375,
   message:
-    "My name is Poonamben Patel and I have more than 10 years of professional job expertise in web development platforms. I received my Master of Computer Science in June,2023 from Seattle University of Sciences and Technology. My goal is to follow my enthusiasm for giving back to the community within the field of software engineering. This is my greatest area of passion. I'd like to learn more about emerging technologies like data, cloud computing (AWS, Azure),and  AI in my spare time.",
-  resume: "https://drive.google.com/file/d/1DEpu84mMUb0_3Eu5cUXV0OwPucFD8FHf/view?usp=sharing",
+    "My name is Poonamben Patel and I have more than 10 years of professional job expertise in web development platforms. I received my Master of Computer Science in June,2023 from Seattle University of Sciences and Technology. My goal is to follow my enthusiasm for giving back to the community within the field of software engineering. This is my greatest area of passion. I'd like to learn more about emerging technologies like data, cloud technologies (AWS, Azure, GCP),and  AI/ML in my spare time.",
+  resume: "https://drive.google.com/file/d/160ELot4wgEpbB7FDjalISUi7POe7gHEp/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -112,7 +112,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently Working on UWM (United Wholesale Mortgage) for full-time Software Engineering II or looking to continues looking opportunities to grow my technical skill in differnt technology! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently Working on UWM (United Wholesale Mortgage) for full-time Software Engineering II or looking to continues looking opportunities to grow my technical skill in emerging technology like AI/ML ! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "poonampatel52@ymail.com",
 };
 
