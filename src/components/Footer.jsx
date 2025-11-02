@@ -20,7 +20,7 @@ const Footer = (props) => {
         using <i className="fab fa-react" />
         <p>
           <small className="text-muted">
-            Project is use react technology.
+            Project used react technology.
           </small>
         </p>
       </Container>
